@@ -1,6 +1,7 @@
 We are hiring
 ===
 We are a team Committed to Lang-Barrier-Free Exploration.
+Contact us: hr@funstory.ai
 
 
 ## Computer Vision Intern/Engineer
